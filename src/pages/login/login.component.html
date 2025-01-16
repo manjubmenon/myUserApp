@@ -1,0 +1,24 @@
+<div class="outer-container row">
+  <div class="col-md-6 img-container"><img class="login-img" src="assets/user-management.jpg"></div>
+  <div class="col-md-6 login-main-container">
+    <div class="login-container ">
+      <h2 class="header">User Login</h2>
+      <form [formGroup]="loginForm" (submit)="onSubmit()" class="login-form">
+        <mat-form-field class="w-100">
+          <mat-label>Username</mat-label>
+          <input type="text" id="username" formControlName="userName" matInput>
+        </mat-form-field>
+
+        <mat-form-field class="w-100">
+          <mat-label>Password</mat-label>
+          <input type="password" id="password" formControlName="password" matInput>
+        </mat-form-field>
+        <div class="btn-div">
+          <button type="submit" class="login-btn">
+            Submit
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

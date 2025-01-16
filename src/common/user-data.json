@@ -1,0 +1,501 @@
+{"users":[
+{
+     "id": 1,
+     "name": "Andrew Owen",
+     "age": 26,
+     "email": "Andrew.Owen@gmail.com",
+     "role":"Administrator",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 2,
+     "name": "Anna Jacob",
+     "age": 30,
+     "email": "Anna.jacob@gmail.com",
+     "role":"Super Admin",
+     "isActive":true,
+     "address":""
+
+   },
+    {
+     "id": 3,
+     "name": "Feba Thomas",
+     "age": 40,
+     "email": "feba.thomas@gmail.com",
+     "role":"Editor",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 4,
+     "name": "Arun Gopi",
+     "age": 22,
+     "email": "Arun.gopi@gmail.com",
+     "role":"Administrator",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 5,
+     "name": "Winnie Tom",
+     "age": 34,
+     "email": "Tom.winnie@gmail.com",
+     "role":"Super Admin",
+     "isActive":true,
+     "address":""
+
+   },
+    {
+     "id": 6,
+     "name": "Anu Mathew",
+     "age": 49,
+     "email": "Anu.Mathew@gmail.com",
+     "role":"writer",
+     "isActive":false,
+     "address":""
+
+   },
+   {
+     "id": 7,
+     "name": "Lekha Maria Baiju",
+     "age": 26,
+     "email": "lekha.maria@gmail.com",
+     "role":"Administrator",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 8,
+     "name": "Charlse Jacob",
+     "age": 30,
+     "email": "charlse.jacob@gmail.com",
+     "role":"Contributor",
+     "isActive":true,
+     "address":""
+
+   },
+    {
+     "id": 9,
+     "name": "Christo Thomas",
+     "age": 40,
+     "email": "Christo.thomas@gmail.com",
+     "role":"Editor",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 10,
+     "name": "Karishma George",
+     "age": 29,
+     "email": "karishma.george@gmail.com",
+     "role":"Administrator",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 11,
+     "name": "Arun K Damodar",
+     "age": 43,
+     "email": "Arun.damodar@gmail.com",
+     "role":"Manager",
+     "isActive":true,
+     "address":""
+
+   },
+    {
+     "id": 12,
+     "name": "Nila P Tony",
+     "age": 45,
+     "email": "Nila.Tony@gmail.com",
+     "role":"Operator",
+     "isActive":false,
+     "address":""
+
+   },
+   {
+     "id": 13,
+     "name": "Ritvika Sreehari",
+     "age": 26,
+     "email": "Ritvika.sreehari@gmail.com",
+     "role":"Administrator",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 14,
+     "name": "Ranjith B Menon",
+     "age": 30,
+     "email": "Ranjith.menon@gmail.com",
+     "role":"Super Admin",
+     "isActive":true,
+     "address":""
+
+   },
+    {
+     "id": 15,
+     "name": "Amenda Elisa Paily",
+     "age": 40,
+     "email": "Amenda.elisa@gmail.com",
+     "role":"Editor",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 16,
+     "name": "Riya Roy",
+     "age": 22,
+     "email": "riya.roy@gmail.com",
+     "role":"Administrator",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 17,
+     "name": "Ayana Krishnan",
+     "age": 34,
+     "email": "ayana.krishna@gmail.com",
+     "role":"Super Admin",
+     "isActive":true,
+     "address":""
+
+   },
+    {
+     "id": 18,
+     "name": "Fayas Khan",
+     "age": 49,
+     "email": "Fayas123@gmail.com",
+     "role":"writer",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 19,
+     "name": "Lekhav K Thimothy",
+     "age": 26,
+     "email": "lekhav.thimothy@gmail.com",
+     "role":"Administrator",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 20,
+     "name": "Diana Disilda",
+     "age": 30,
+     "email": "Diana.disilda@gmail.com",
+     "role":"Contributor",
+     "isActive":true
+
+   },
+    {
+     "id": 21,
+     "name": "Akash Menon",
+     "age": 40,
+     "email": "akash.menon@gmail.com",
+     "role":"Editor",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 22,
+     "name": "Santhosh George",
+     "age": 29,
+     "email": "santhosh.george@gmail.com",
+     "role":"Administrator",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 23,
+     "name": "Manju Menon",
+     "age": 43,
+     "email": "Manju.menon@gmail.com",
+     "role":"Manager",
+     "isActive":true,
+     "address":""
+
+   },
+    {
+     "id": 24,
+     "name": "Annmol Tony",
+     "age": 45,
+     "email": "Ann.Tony@gmail.com",
+     "role":"Operator",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 25,
+     "name": "Rakesh Nandanan",
+     "age": 26,
+     "email": "rakesh.nandanan@gmail.com",
+     "role":"Administrator",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 26,
+     "name": "Malini Jayrom",
+     "age": 30,
+     "email": "malini.jayrom@gmail.com",
+     "role":"Super Admin",
+     "isActive":true,
+     "address":""
+
+   },
+    {
+     "id": 27,
+     "name": "Kiran Kumar",
+     "age": 40,
+     "email": "kiran.Kumar@gmail.com",
+     "role":"Editor",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 28,
+     "name": "Baiju Thadathil",
+     "age": 22,
+     "email": "baiju.thadathil@gmail.com",
+     "role":"Administrator",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 29,
+     "name": "Roniya Rony",
+     "age": 34,
+     "email": "roniya.rony@gmail.com",
+     "role":"Super Admin",
+     "isActive":true,
+     "address":""
+
+   },
+    {
+     "id": 30,
+     "name": "Bovas Thomas",
+     "age": 49,
+     "email": "bovas.thomas@gmail.com",
+     "role":"writer",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 31,
+     "name": "Anu shankar",
+     "age": 26,
+     "email": "anu.shankar@gmail.com",
+     "role":"Administrator",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 32,
+     "name": "Mavomi Jacob",
+     "age": 30,
+     "email": "mavomi.jacob@gmail.com",
+     "role":"Contributor",
+     "isActive":true,
+     "address":""
+
+   },
+    {
+     "id": 33,
+     "name": "James Nicolas",
+     "age": 40,
+     "email": "James.nicolas@gmail.com",
+     "role":"Editor",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 34,
+     "name": "Antony Tharakan",
+     "age": 29,
+     "email": "antony.tharakan@gmail.com",
+     "role":"Administrator",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 35,
+     "name": "Aslam K Azad",
+     "age": 43,
+     "email": "Aslam.azad@gmail.com",
+     "role":"Manager",
+     "isActive":true,
+     "address":""
+
+   },
+    {
+     "id": 36,
+     "name": "Tom Jay",
+     "age": 45,
+     "email": "tom.jay@gmail.com",
+     "role":"Operator",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 37,
+     "name": "Bineesh K N",
+     "age": 26,
+     "email": "bineesh.sreehari@gmail.com",
+     "role":"Administrator",
+     "isActive":false,
+     "address":""
+
+   },
+   {
+     "id": 38,
+     "name": "Sreyas J Lakshmi",
+     "age": 30,
+     "email": "sreyas.lakshmi@gmail.com",
+     "role":"Super Admin",
+     "isActive":true,
+     "address":""
+
+   },
+    {
+     "id": 39,
+     "name": "Anamika P S",
+     "age": 40,
+     "email": "anamika456@gmail.com",
+     "role":"Editor",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 40,
+     "name": "Manikandan S Jayan",
+     "age": 22,
+     "email": "manikandan.jayan@gmail.com",
+     "role":"Administrator",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 41,
+     "name": "Naseeha M A",
+     "age": 34,
+     "email": "Naseeha2021@gmail.com",
+     "role":"Super Admin",
+     "isActive":true,
+     "address":""
+
+   },
+    {
+     "id": 42,
+     "name": "Nihala Thasni",
+     "age": 49,
+     "email": "Nihala@gmail.com",
+     "role":"writer",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 43,
+     "name": "Ragunandanan K Mani",
+     "age": 26,
+     "email": "ragu.mani@gmail.com",
+     "role":"Administrator",
+     "isActive":false,
+     "address":""
+
+   },
+   {
+     "id": 44,
+     "name": "Abhishek Puthanpurayil",
+     "age": 30,
+     "email": "puthanpurayil.abhishek@gmail.com",
+     "role":"Contributor",
+     "isActive":true,
+     "address":""
+
+   },
+    {
+     "id": 45,
+     "name": "Abhilash Nair",
+     "age": 40,
+     "email": "abhilash.k@gmail.com",
+     "role":"Editor",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 46,
+     "name": "Reshma Prasad",
+     "age": 29,
+     "email": "reshma.prased1995@gmail.com",
+     "role":"Administrator",
+     "isActive":true,
+     "address":""
+
+   },
+   {
+     "id": 47,
+     "name": "Manju Menon",
+     "age": 43,
+     "email": "Manju.menon@gmail.com",
+     "role":"Manager",
+     "isActive":true,
+     "address":""
+
+   },
+    {
+     "id": 48,
+     "name": "Nikhil K thollanur",
+     "age": 45,
+     "email": "Nikhil@gmail.com",
+     "role":"Operator",
+     "isActive":true,
+     "address":""
+
+   },
+     {
+     "id": 49,
+     "name": "Remani Parappur",
+     "age": 43,
+     "email": "remani.parappur@gmail.com",
+     "role":"Manager",
+     "isActive":false,
+     "address":""
+
+   },
+    {
+     "id": 50,
+     "name": "Krishna Priya",
+     "age": 45,
+     "email": "krishna.priya@gmail.com",
+     "role":"Operator",
+     "isActive":true,
+     "address":""
+   }
+
+]}

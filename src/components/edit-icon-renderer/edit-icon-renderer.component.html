@@ -1,0 +1,9 @@
+<span>
+  @if(params.colDef.cellRendererParams == 'edit'){
+  <i (click)="onEdit()" class="fa fa-pencil"></i>
+  }
+  @else {
+  <i (click)="onDelete()" class="fa fa-trash"></i>
+  }
+
+</span>

@@ -1,0 +1,19 @@
+<div class="outer-container">
+  <div class="row pt-3">
+    <div class="col-md-6 search-outer-container">
+      <i class="fa fa-search search-icon" aria-hidden="true"></i>
+      <input (input)="onFilterTextBoxChanged()" class="global-search" type="text" id="filter-text-box"
+        placeholder="Search...">
+    </div>
+    <div class="add-user-container col-md-6">
+      <button (click)="onAdduser()" type="button" class="btn  btn-sm add-user">
+        Add User
+      </button>
+    </div>
+  </div>
+  <div class="user-list-container">
+    <ag-grid-angular class="user-list-grid" (gridReady)="onGridReady($event)" [pagination]="pagination"
+      [paginationPageSize]="paginationPageSize" [paginationPageSizeSelector]="paginationPageSizeSelector"
+      [rowData]="rowData" [columnDefs]="colDefs" />
+  </div>
+</div>
